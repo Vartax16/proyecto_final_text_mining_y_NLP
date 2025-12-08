@@ -1,14 +1,3 @@
-"""
-Sistema Avanzado de Análisis de Sentimientos Basado en Aspectos (ABSA)
-Proyecto de Text Mining y Procesamiento del Lenguaje Natural
-
-VERSIÓN FINAL OPTIMIZADA
-- Corrección del problema de detección de polaridad
-- Lexicón robusto en español
-- Análisis mejorado de contexto
-- Manejo correcto de negaciones e intensificadores
-"""
-
 import spacy
 from textblob import TextBlob
 import es_core_news_sm
